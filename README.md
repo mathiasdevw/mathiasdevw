@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou Mathias de Abreu Carolino
 
-💻 **Desenvolvedor Back-End em formação** | Focado em **Java** e **Spring Boot**  
-🎯 **Em busca de oportunidades de estágio** na área de desenvolvimento back-end e setor bancário  
+💻 **Desenvolvedor Back-End em formação** 
 📚 Estudando: Java • Spring Boot • PostgreSQL • MongoDB  
 🔒 Interesse especial em **Segurança da Informação** e sistemas para instituições financeiras  
 📍 Cajazeiras - Paraíba, Brasil  
@@ -23,9 +22,7 @@
 ---
 
 ### 💡 Objetivos
-- 📈 Aprimorar minhas habilidades em desenvolvimento back-end com Java e Spring Boot  
-- 🏦 Atuar no **setor bancário** (Itaú, Banco do Brasil, Caixa, etc.)  
-- 🔐 Me especializar em **Segurança da Informação**  
+- 📈 Aprimorar minhas habilidades em desenvolvimento back-end com Java e Spring Boot 
 
 ---
 
