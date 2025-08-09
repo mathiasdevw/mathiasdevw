@@ -1,52 +1,40 @@
-## Hi there 👋
+## 👋 Olá, eu sou Mathias de Abreu Carolino
 
-<!--
-**mathiasdevw/mathiasdevw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->## 👋 Hello, I'm Mathias de Abreu Carolino
-
-💻 **Back-End Developer in training** | Focusing on **Java** and **Spring Boot**  
-🎯 **Looking for internship opportunities** in backend development and banking sector  
-📚 Learning: Java • Spring Boot • PostgreSQL • MongoDB  
-🔒 Interested in **Information Security** and backend systems for financial institutions  
-📍 Brazil  
+💻 **Desenvolvedor Back-End em formação** | Focado em **Java** e **Spring Boot**  
+🎯 **Em busca de oportunidades de estágio** na área de desenvolvimento back-end e setor bancário  
+📚 Estudando: Java • Spring Boot • PostgreSQL • MongoDB  
+🔒 Interesse especial em **Segurança da Informação** e sistemas para instituições financeiras  
+📍 Cajazeiras - Paraíba, Brasil  
 
 ---
 
-### 🚀 Skills (Learning)
+### 🚀 Habilidades (Em aprendizado)
 
-#### Programming Languages
+#### Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-#### Databases
+#### Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 💡 Goals
-- 📈 Improve backend development skills with Java/Spring Boot  
-- 🏦 Work in the **banking sector** (Itaú, Banco do Brasil, Caixa, etc.)  
-- 🔐 Deepen knowledge in **Information Security**  
+### 💡 Objetivos
+- 📈 Aprimorar minhas habilidades em desenvolvimento back-end com Java e Spring Boot  
+- 🏦 Atuar no **setor bancário** (Itaú, Banco do Brasil, Caixa, etc.)  
+- 🔐 Me especializar em **Segurança da Informação**  
 
 ---
 
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-📧 **seuemail@example.com**
+### 📫 Contato
+📧 **mathiasdev2010@gmail.com**
 
 ---
 
+### 🌟 Curiosidades
+- 🚀 Apaixonado por tecnologia e programação  
+- 🛡️ Gosto de aprender sobre segurança digital  
+- ☕ Café é meu combustível para estudar  
